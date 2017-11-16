@@ -17,7 +17,7 @@ Type inference allows python to know what type without declaring it.
 ```python
 my_bool = True
 
-``
+```
 
 Bools are capital in Python compared to lowercased in swift
 
